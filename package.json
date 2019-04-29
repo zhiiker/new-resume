@@ -1,5 +1,5 @@
 {
-  "name": "www.liangshichao.com",
+  "name": "strml.net",
   "version": "0.0.1",
   "description": "",
   "main": "app.js",
@@ -9,7 +9,7 @@
     "dev": "webpack-dev-server --open",
     "watch": "webpack --progress --watch"
   },
-  "author": "梁世超 <i@liangs.me> (http://www.liangshichao.com/)",
+  "author": "Samuel Reed <samuel.trace.reed@gmail.com> (http://strml.net/)",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
