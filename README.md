@@ -1,7 +1,7 @@
-STRML.net
+www.liangshichao.com
 =========
 
-[View Site](http://strml.net)
+[View Site](http://www.liangshichao.com)
 
 Building
 --------

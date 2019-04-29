@@ -1,7 +1,7 @@
-STRML.net
+www.liangshichao.com
 =========
 
-Samuel Reed
+梁世超
 CTO, BitMEX (The Bitcoin Mercantile Exchange)
 Full-Stack / NodeJS / DevOps
 
@@ -16,8 +16,8 @@ Contact
 Projects
 --------
 
-* www.BitMEX.com
-* www.Securesha.re
+* www.zhiiker.com
+* it.ci
 * www.Tixelated.com
 * www.BrightestYoungThings.com
 and of course...
@@ -28,17 +28,6 @@ Open Source
 
 * Babel
 * React-Grid-Layout
-* React-LocalStorage
-* React-Router-Component
-* React-Resizable
-* React-Draggable
-* OpenBazaar
-* JSXHint
-* BTChip-Signing-Tools
-* TextFit
-* Imgur-to-GFYcat
-* backbone.queryRouter
-* backbone.layoutManager
-* Mongoose-Filter-Denormalize
+
 
 
