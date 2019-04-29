@@ -2,32 +2,20 @@ www.liangshichao.com
 =========
 
 梁世超
-CTO, BitMEX (The Bitcoin Mercantile Exchange)
-Full-Stack / NodeJS / DevOps
+No one
+Full-Stack / NodeJS / DataMining
 
 Contact
 -------
 
-* sam at bitmex dot com
-* samuel.trace.reed at gmail dot com
-* STRML on irc.freenode.net
-* @STRML_ on Twitter
+* i at liangs dot me
+* @zhiiker on Twitter
 
 Projects
 --------
-
 * www.zhiiker.com
 * it.ci
-* www.Tixelated.com
-* www.BrightestYoungThings.com
-and of course...
-* www.strml.net
-
-Open Source
------------
-
-* Babel
-* React-Grid-Layout
+* placeyouknow.com
 
 
 
