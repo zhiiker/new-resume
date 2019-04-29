@@ -9,7 +9,7 @@
     "dev": "webpack-dev-server --open",
     "watch": "webpack --progress --watch"
   },
-  "author": "Zhiiker <i@liangs.me> (http://www.liangshichao.com)",
+  "author": "梁世超 <i@liangs.me> (http://www.liangshichao.com)",
   "license": "MIT",
   "devDependencies": {
     "babel-core": "^6.26.0",
