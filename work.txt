@@ -1,21 +1,23 @@
-www.liangshichao.com
+梁世超
 =========
 
-梁世超
-No one
-Full-Stack / NodeJS / DataMining
+专注炼丹算命的心灵术士，热爱哲学的神经科学票友。
+A psion focus on alchemy and fortune telling,a NeuroScience fancier enthuse about philosophy.
+Full-Stack / DataMining
 
 Contact
 -------
-
-* i at liangs dot me
+* 个人网站(Personal website):https://is.liangs.me
+* 邮箱(Email):i at liangs dot me
 * @zhiiker on Twitter
+* 电话和电报(Phone And Telegram):+1(936)666-6046
 
 Projects
 --------
 * www.zhiiker.com
-* it.ci
 * placeyouknow.com
+* it.ci
+
 
 
 
