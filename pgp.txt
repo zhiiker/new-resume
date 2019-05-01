@@ -1,4 +1,4 @@
-## BEGIN zhiiker i (ät) liangs me ##
+## BEGIN zhiiker i at liangs dot me ##
 
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
@@ -40,4 +40,4 @@ laPNkQ==
 =ifyg
 -----END PGP PUBLIC KEY BLOCK-----
 
-## END zhiiker i (ät) liangs me ##
+## END zhiiker i at liangs dot me ##
