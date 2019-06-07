@@ -14,7 +14,6 @@ Contact
 
 Projects
 --------
-* is.liangs.me
 * www.zhiiker.com
 * placeyouknow.com
 * it.ci
