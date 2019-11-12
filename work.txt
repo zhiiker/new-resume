@@ -15,6 +15,7 @@ Contact
 Projects
 --------
 * www.zhiiker.com
+* www.zhiiker.net
 * placeyouknow.com
 * it.ci
 
