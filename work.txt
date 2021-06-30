@@ -1,22 +1,27 @@
 梁世超
-Shaun Liang
 =========
-
+Shaun Liang
 Explorer Developer Innovator
 Cypherpunk Cosmopolitan Transhumanist
 Neuroexistentialist Extropist
 Philosophy-Enthusiast NeuroScience-Fancier
 
+
 Skills
 -------
-Software Develop / DataMining / BlockChain / Full Stack
+
+Software Develop / DataMining / BlockChain Research / Web Full Stack / AI
+
 
 Contact
 -------
-* 个人网站(Personal website):https://www.bitcook.com
-* 邮箱(Email):me at zkr dot pub
+
+* 个人网站(Personal website):is.liangs.me
+* 博客(Blog):bitcook.org
+* 邮箱(Email):i at liangs dot me
 * @zhiiker on Twitter
-* 电话和电报(Phone And Telegram):+1(936)666-6046
+* 电话及电报(Phone and Telegram):+1(936)666-6046
+
 
 Projects
 --------
@@ -24,7 +29,4 @@ Projects
 * sns.ink
 * www.zhiiker.com
 * it.ci
-
-
-
 
