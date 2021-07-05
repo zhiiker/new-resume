@@ -18,5 +18,5 @@ Building for Production
 --------
 
 ```bash
-npm run build
+npm run-script build
 ```
